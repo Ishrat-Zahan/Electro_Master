@@ -1,0 +1,1 @@
+INSERT INTO `order`(`user_id`, `total`, `discount`, `comment`, `payment`, `trxid`, `status`,`b_address`,`s_address`) VALUES ('5','105000','4','hi','bkash','12345','pe','section -6','section 6')
